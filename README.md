@@ -8,4 +8,4 @@ Dataset : https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 My Blog : https://ravide-lubis.github.io
 
-My Webservice :  https://prediksicellmalaria.herokuapp.com
+My Webservice : https://deteksi-sel-malaria.herokuapp.com
