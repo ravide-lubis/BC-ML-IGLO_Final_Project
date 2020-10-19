@@ -1,7 +1,11 @@
 # BC-ML-IGLO_Final_Project
 
-Final Project Image Classification Deep Learning
+Final Project Image Recognition with Deep Learning
 
-Dataset : Cell Malaria link: https://lhncbc.nlm.nih.gov/publication/pub9932
+This project is about how to detect cell of the human body that infected or uninfected by malaria.
+
+Dataset : https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 My Blog : https://ravide-lubis.github.io
+
+My Webservice :  https://prediksicellmalaria.herokuapp.com
